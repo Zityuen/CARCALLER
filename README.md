@@ -10,8 +10,13 @@ The app implements some of the main features of Uber:
 - Check user request
 
 ## Technologies & Frames
-- Firebase
-- MapKit
+* [Firebase] - save and load data
+* [MapKit] - help with location and show map
+* [RevealingSplashView] - improve launch view with heart-beat animation
 - Excellent user experience in view controller, image and button.
 
 ![Finished App](https://github.com/Zityuen/CARCALLER/blob/master/CARCALLER.gif)
+
+[Firebase]: <https://firebase.google.com/>
+[RevealingSplashView]: <https://github.com/PiXeL16/RevealingSplashView>
+[MapKit]: <https://developer.apple.com/documentation/mapkit>
